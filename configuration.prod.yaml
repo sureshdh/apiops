@@ -1,0 +1,6 @@
+apimServiceName: prod-deploy-apim
+namedValues:
+loggers:
+diagnostics:
+ backends:
+ apis:
